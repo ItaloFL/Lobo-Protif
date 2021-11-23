@@ -85,12 +85,19 @@
 
 @media (max-width: 900px) {
   
-  .empresa {
+  .experiencia {
     grid-template-columns: 1fr;
     gap: 40px;
   }
 
   .experiencia .subtitulo {
+    font-size: 2rem;
     color: #141414;
+    word-break: initial;
+  }
+
+  .experiencia-texto {
+    font-size: 1.125rem;
+    line-height: 1.1;
   }
 }
