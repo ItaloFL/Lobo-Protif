@@ -33,7 +33,7 @@ evolving in this area.
 
 ## Building 
 
-Se você quiser contribuir em algo nesse projeto, siga os passos abaixo: 
+If you want to contribute to something in this project, follow the steps below:
 
 ```bash
 
